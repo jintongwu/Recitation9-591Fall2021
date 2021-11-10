@@ -1,0 +1,4 @@
+Jintong hw1-60.0 hw2-55.5 hw3-85.5
+Dana hw1-90.0 hw2-85.0 hw3-75.0
+Adrian hw1-99.0 hw2-95.0 hw3-20.5
+Vivian hw1-60.0 hw2-78.5 hw3-65.0
