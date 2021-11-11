@@ -40,12 +40,15 @@
 ---
 ## Recap Example
 In RecapExample.java, there are 3 inner classes that are waiting to be implemented. We will be going through these examples during recitation.
+
 1. Use HashMap to implement a counter
 2. Subway Fare table stored in HashMap
 3. Student Grades: HashMap of HashMaps
+
 ---
 ## Recitation Problem Set
 Complete either Q1-Q5 *or* Q6-Q7 in Rec9ProblemSet.java. 
+
 1. Print all entries in HashMap
 2. Find repeated character in a String (use HashMap)
 3. Find repeated character in a String (use HashSet)
