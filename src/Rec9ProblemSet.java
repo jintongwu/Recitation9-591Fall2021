@@ -3,7 +3,7 @@ import java.util.HashSet;
 
 public class Rec9ProblemSet {
 	/**
-	 * Given a HashMap, print all entry in "key->value\n" format
+	 * Q1 Given a HashMap, print all entry in "key->value\n" format
 	 * 
 	 * @param map
 	 */
@@ -13,11 +13,11 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Find the only repeating character in a string using HashMap It is guaranteed
+	 * Q2 Find the only repeating character in a string using HashMap It is guaranteed
 	 * that the input only has one repeating character
 	 * 
 	 * @param input
-	 * @return
+	 * @return the repeated character
 	 */
 	public static char findRepeatCharacterMap(String input) {
 		// TODO: implement this method
@@ -26,11 +26,11 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Find the only repeating character in a string using HashSet It is guaranteed
+	 * Q3 Find the only repeating character in a string using HashSet It is guaranteed
 	 * that the input only has one repeating character
 	 * 
 	 * @param input
-	 * @return 
+	 * @return the repeated character
 	 */
 	public static char findRepeatCharacterSet(String input) {
 		// TODO: implement this method
@@ -39,10 +39,10 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Find the mode (most frequent) number in an array using HashMap
+	 * Q4 Find the mode (most frequent) number in an array using HashMap
 	 * 
 	 * @param arr
-	 * @return
+	 * @return the mode number
 	 */
 	public static int findMode(int[] arr) {
 		// TODO: implement this method
@@ -50,10 +50,13 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Get the Fibonacci number of an integer, fib(n) = fib(n-1) + fib(n-2)
+	 * Q5 Get the Fibonacci number of an integer
+	 * From Wikipedia: In mathematics, the Fibonacci numbers, commonly denoted Fₙ, 
+	 * form a sequence, called the Fibonacci sequence, such that each number 
+	 * is the sum of the two preceding ones, starting from 0 and 1
 	 * 
 	 * @param n
-	 * @return
+	 * @return the fibonacci number of an integer
 	 */
 	public static int fib(int n) {
 		// TODO: implement this method
@@ -61,14 +64,14 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Challenge Question, Optional
+	 * Q6 Challenge Question, Optional
 	 * Given an array, find the indices of two element that sums up to the target It
-	 * is guaranteed that the input only contains distinct number and there exists
-	 * such pair
+	 * is guaranteed that the input only contains distinct number and there exists 
+	 * only one pair
 	 * 
 	 * @param arr
 	 * @param target
-	 * @return
+	 * @return an array of the indices of two elements
 	 */
 	public static int[] twoSumHashMap(int[] arr, int target) {
 		// TODO: implement this method
@@ -77,12 +80,12 @@ public class Rec9ProblemSet {
 	}
 
 	/**
-	 * Challenge Question, Optional
-	 * Validate if a string is a palindrome palindrome is a string that reads the
+	 * Q7 Challenge Question, Optional
+	 * Validate if a string is a palindrome. A palindrome is a string that reads the
 	 * same backward and forward (ex. "abba" is a palindrome, "ab" is not ~)
 	 * 
 	 * @param input
-	 * @return
+	 * @return true if the input string is palindromic, false otherwise
 	 */
 	public static boolean validPalindrome(String input) {
 		// TODO: implement this method
