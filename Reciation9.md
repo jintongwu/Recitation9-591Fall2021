@@ -1,4 +1,5 @@
 # Recitation9-591Fall2021
+* Reciation git repo: https://github.com/jintongwu/Recitation9-591Fall2021.git
 ---
 ## Topics Recap
 1. HashMap
@@ -35,6 +36,7 @@
     * Rule of Thumb to appproach a problem recursively
         * Think about how the problem can be break into smaller problems
         * Always think about the base case
+
 ---
 ## Recap Example
 In RecapExample.java, there are 3 inner classes that are waiting to be implemented. We will be going through these examples during recitation.
@@ -55,3 +57,26 @@ Complete either Q1-Q5 *or* Q6-Q7 in Rec9ProblemSet.java.
 ### What to Submit?
 Copy and paste your code into gradscopes.
 #### Note: Q6 and Q7 are optional questions that are slightly harder than Q1-Q5. If you decide to work on Q6 and Q7, you don't need to finish Q1-Q5 to get points for recitation.
+
+## Group Assignment
+Group # | Member 1 | Member 2 | Member 3 | Member 4
+--------|----------|----------|----------|---------
+Group 1 | Wang, Liujia | He, Donglun | Mammadov, Elmar | Zhang, Han
+Group 2 | Yiu, Hon-Cheung | Cheema, Sardar Asfandy | Chou, Randy| Carnation, Kayla Rae
+Group 3 | Yu, Qingyu | Wang, Yuanqi | Arguello-Gonzalez, Marcos Abraham | Kong, Rachel
+Group 4 | Hu, Yuxin | Lai, Qimei | Zhang, Miaoyan | Nguyen, Tai D
+Group 5 | Qiu, Chengzhuo | Wu, Jeng-Ru | Cai, Jialin | Tims, George
+Group 6 | Sheng, Xinyue | Pinheiro, Benjamin B | Wang, Kehan | Nojoomi, Radin
+Group 7 | Chen, Zheyi | Wang, An-Jie | Zhang, Zhihui | Liu, Xinyue
+Group 8 | Xue, Mingxin | Zhang, Yihong | Cho, Suebin Grace | Schnall, Aaron Hewitt
+Group 9 | Richmond, Christian | Xiao, Zijian | Bales, Elijah | Biscaro, Denise
+Group 10 | Sha, Yumeng | Kallas Jatene, Rafael | Patel, Siddharth Bhagwanji | Graham, Alexander Richard
+Group 11 | Huang, Wenyi | Jiang, Yao | Choi, Jae Ho | Pizzico, Tyler R
+Group 12 | Qiu, Xi | Zhang, Yang | Gallagher, John Manus | Li, Yunhe
+Group 13 | Lee, Jaeyoung | Cruz, Marye I| Chheda, Shagun Pritesh | Rigas, Andrew
+Group 14 | Lim, Xi Zhen | Liu, Shufan | Pace, Benjamin Michael | Ng, Wai Chung
+Group 15 | Williams, Levester Randall | Kim, Yunchae | Chen, Xiyue | Liu, Jiayun
+Group 16 | Guo, Zhaosen | He, Ziyi | Ren, Yue | Bernat, Kevin Bruno
+Group 17 | Sabri, Rita | Ye, Huifang | Hu, Lucy Qian | Zhang, Minzheng
+Group 18 | Shah, Rushabh | Thenappan, Bala Sundar | Kung, Ling-Hsin | Patel, Rishi
+
