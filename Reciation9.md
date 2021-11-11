@@ -35,9 +35,23 @@
     * Rule of Thumb to appproach a problem recursively
         * Think about how the problem can be break into smaller problems
         * Always think about the base case
-  ---
-  ## Recap Example
-  In RecapExample.java, there are 3 inner classes that are waiting to be implemented. We will be going through these examples during recitation.
-  1. Use HashMap to implement a counter
-  2. Subway Fare table stored in HashMap
-  3. Student Grades: HashMap of HashMaps
+---
+## Recap Example
+In RecapExample.java, there are 3 inner classes that are waiting to be implemented. We will be going through these examples during recitation.
+1. Use HashMap to implement a counter
+2. Subway Fare table stored in HashMap
+3. Student Grades: HashMap of HashMaps
+---
+## Recitation Problem Set
+Complete either Q1-Q5 *or* Q6-Q7 in Rec9ProblemSet.java. 
+1. Print all entries in HashMap
+2. Find repeated character in a String (use HashMap)
+3. Find repeated character in a String (use HashSet)
+4. Find mode in an array of numbers (use HashMap)
+5. Fibonacci number generator (use Recursion)
+6. Two-Sum (Use HashMap)
+7. Check Panlindrome
+
+### What to Submit?
+Copy and paste your code into gradscopes.
+#### Note: Q6 and Q7 are optional questions that are slightly harder than Q1-Q5. If you decide to work on Q6 and Q7, you don't need to finish Q1-Q5 to get points for recitation.
