@@ -10,7 +10,7 @@
         * put(key, value)
         * putIfAbsent(key, value)
         * get(key)
-        * getOrDefault(key)
+        * getOrDefault(key, default value)
         * containsKey(key)
         * remove(key)
         * keySet()
